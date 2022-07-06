@@ -1,0 +1,68 @@
+* {
+    border-width: 2px !important;
+}
+
+
+/************** basic background colors **************/
+
+.bg-lazuli,.bg-lazuli * {
+    background-color: hsl(259, 100%, 9%);
+    color: hsl(224, 4%, 91%) !important;
+    border-color: hsl(245, 51%, 17%) !important;
+}
+
+.bg-lazuli .btn:hover {
+    background-color: hsl(245, 51%, 17%);
+    color: hsl(224, 4%, 91%);
+    border-color: hsl(259, 100%, 9%) !important;
+}
+
+.bg-sodalite,.bg-lazuli .card-body,.bg-lazuli .card-body * {
+    background-color: hsl(245, 51%, 17%);
+    color: hsl(224, 4%, 91%);
+    border-color: hsl(259, 100%, 9%) !important;
+    border-width: 1px !important;
+}
+
+.bg-lazurite,.bg-lazuli th {
+    background-color: hsl(247, 61%, 31%) !important;
+    color: hsl(82, 2%, 93%) !important;
+    border-color: hsl(259, 100%, 9%) !important;
+    border-width: 1px !important;
+}
+
+
+/************** other background colors **************/
+
+.bg-hauyne {
+    background-color: hsl(242, 99%, 34%) !important;
+    color: hsl(224, 4%, 91%) !important;
+}
+
+.bg-coral {
+    background-color: hsl(1, 94%, 34%) !important;
+    color: hsl(224, 4%, 91%) !important;
+}
+
+.bg-amber {
+    background-color: hsl(32, 99%, 38%) !important;
+    color: hsl(1, 100%, 18%) !important;
+}
+
+
+/************** text colors **************/
+
+.text-pyrite,.bg-lazuli a:not(.btn) {
+    color: hsl(57, 22%, 56%) !important;
+}
+
+
+/************** size **************/
+
+.lz-width-xs {
+    width: 1rem !important;
+}
+
+.lz-width-md {
+    width: 5rem !important;
+}

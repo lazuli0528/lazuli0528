@@ -1,0 +1,5 @@
+[
+    { "target": 0, "name": "No", "title": "No", "data": "No", "className": "align-middle text-end", "orderable": false,  "visible": true},
+    { "target": 1, "name": "Name", "title": "Name", "data": "Name", "className": "align-middle", "orderable": true,  "visible": true},
+    { "target": 2, "name": "Type", "title": "Type", "data": "Type", "className": "align-middle", "orderable": true,  "visible": true}
+]

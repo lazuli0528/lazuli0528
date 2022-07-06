@@ -1,0 +1,1 @@
+var BASE_URL = "https://lazuli0528.github.io/lazuli0528";
